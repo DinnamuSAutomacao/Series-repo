@@ -1,0 +1,13 @@
+C:\Users\Mobster 91\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.csproj.AssemblyReference.cache
+C:\Users\Mobster 91\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+C:\Users\Mobster 91\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+C:\Users\Mobster 91\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+C:\Users\Mobster 91\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.exe
+C:\Users\Mobster 91\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.deps.json
+C:\Users\Mobster 91\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+C:\Users\Mobster 91\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+C:\Users\Mobster 91\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.dll
+C:\Users\Mobster 91\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.pdb
+C:\Users\Mobster 91\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.dll
+C:\Users\Mobster 91\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.pdb
+C:\Users\Mobster 91\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache

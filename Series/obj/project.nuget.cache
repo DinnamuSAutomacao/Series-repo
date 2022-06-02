@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DlcHlvDY7Dsant2HF0jPgId7ReDjAwTHmVmWlmNF8IB0jO6oTiMxvEm/qUm7s3oAqE9M+Qz+ZeeFD0OQyl2thg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mobster 91\\source\\repos\\Series\\Series\\Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mobster 91\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
